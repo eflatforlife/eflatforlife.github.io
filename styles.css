@@ -1,0 +1,72 @@
+h1{
+ margin: auto;
+width: 60%;
+padding: 10px;
+    text-align: center;
+    font-family: Arial;
+    color: #000098;
+    }
+h2{
+margin: auto;
+width: 60%;
+padding: 10px;
+text-align: center;
+font-family: Arial;
+}
+h3{
+margin: auto;
+width: 60%;
+padding: 10px;
+text-align: center;
+font-family: Arial;
+}
+p{
+font-family: Arial;
+font-size: 19px;
+    }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    display: inline;
+  }
+  b{
+    font-family: Arial;
+    }
+/* From cssbuttons.io by @adamgiebl */
+/* the css is kinda diffrent but thankyou adam -jan teni*/
+button {
+    background: #fefe64;
+    font-family: Arial;
+    padding: 0.6em 1.3em;
+    font-weight: 900;
+    font-size: 15px;
+    border: 3px solid #000098;
+    border-radius: 0.4em;
+    box-shadow: 0.1em 0.1em;
+    color: #000098;
+   }
+   button:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em;
+   }
+   
+   button:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+   }
+.toki{
+    margin: auto;
+   width: 60%;
+   padding: 10px;
+       text-align: center;
+       font-family: linja_pona_4.2;
+       color: #000098;
+}

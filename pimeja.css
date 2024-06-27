@@ -1,0 +1,78 @@
+body {
+    background-color: black;
+  }  
+h1{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    }
+h2{
+        margin: auto;
+        width: 60%;
+        padding: 10px;
+        text-align: center;
+        font-family: Arial;
+        color: white;
+
+        }
+        h3{
+            margin: auto;
+            width: 60%;
+            padding: 10px;
+            text-align: center;
+            font-family: Arial;
+            color: white;
+
+            }
+  p{
+    font-family: Arial;
+    color: white;
+
+    }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  li{
+    display: inline;
+  }
+  b{
+    font-family: Arial;
+        color: white;
+
+    }
+/* From cssbuttons.io by @adamgiebl */
+/* the css is kinda diffrent but thankyou adam -jan teni*/
+button {
+    background: #000098;
+    font-family: Arial;
+    padding: 0.6em 1.3em;
+    font-weight: 900;
+    font-size: 15px;
+    border: 3px solid #ffffff;
+    border-radius: 0.4em;
+    box-shadow: 0.1em 0.1em;
+    color: #ffffff;
+   }
+   
+   button:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em;
+   }
+   
+   button:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+   }
